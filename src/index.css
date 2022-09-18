@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+
+html {
+  @apply font-body antialiased;
+}
+
+@tailwind utilities;
+
+.fondohero {
+  background-image: url("/assets/img/bg-hero.jpg");
+}
+
+.mapa {
+  background-image: url("/assets/img/map.png");
+}
+
+.cta {
+  background-image: url("/assets/img/bg-cta.jpg")
+}
