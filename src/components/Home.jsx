@@ -19,7 +19,7 @@ export default function Home() {
           </div>
           <div className="pt-8 sm:pt-10 lg:pl-8 lg:pt-0">
             <h1 className="text-center font-header text-4xl text-white sm:text-left sm:text-5xl md:text-6xl">
-              Hola, soy Milto Arias
+              Hola, soy Milton Arias
             </h1>
             <div className="flex flex-col justify-center pt-3 sm:flex-row sm:pt-5 lg:justify-start">
               <div className="flex items-center justify-center pl-0 sm:justify-start md:pl-1">
@@ -31,20 +31,14 @@ export default function Home() {
                 </div>
               </div>
               <div className="flex items-center justify-center pt-5 pl-2 sm:justify-start sm:pt-0">
-                <a href="/">
-                  <i className="bx bxl-facebook-square text-2xl text-white hover:text-yellow"></i>
-                </a>
-                <a href="/" className="pl-4">
-                  <i className="bx bxl-twitter text-2xl text-white hover:text-yellow"></i>
-                </a>
-                <a href="/" className="pl-4">
-                  <i className="bx bxl-dribbble text-2xl text-white hover:text-yellow"></i>
-                </a>
-                <a href="/" className="pl-4">
+                <a href="https://www.linkedin.com/in/miltonjac/" target="_blank" className="pl-4">
                   <i className="bx bxl-linkedin text-2xl text-white hover:text-yellow"></i>
                 </a>
-                <a href="/" className="pl-4">
-                  <i className="bx bxl-instagram text-2xl text-white hover:text-yellow"></i>
+                <a href="https://www.facebook.com/pamelw" target="_blank" className="pl-4">
+                  <i className="bx bxl-facebook-square text-2xl text-white hover:text-yellow"></i>
+                </a>
+                <a href="https://twitter.com/home" target="_blank" className="pl-4">
+                  <i className="bx bxl-twitter text-2xl text-white hover:text-yellow"></i>
                 </a>
               </div>
             </div>

@@ -7,10 +7,10 @@ export default function Experiencia() {
   return (
     <div className="container py-16 md:py-20" id="work">
       <h2 className="text-center font-header text-4xl font-semibold uppercase text-primary sm:text-5xl lg:text-6xl">
-        My work experience
+        Mi Experiencia de trabajo
       </h2>
       <h3 className="pt-6 text-center font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-        Here's what I did before freelancing
+        Estas son las empresas para las que he trabajado
       </h3>
 
       <div className="relative mx-auto mt-12 flex w-full flex-col lg:w-2/3">
@@ -39,17 +39,15 @@ export default function Experiencia() {
                 <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                 <div className="md:-mt-1 md:pl-8">
                   <span className="block font-body font-bold text-grey-40">
-                    Apr 2015 - Mar 2018
+                    Ago 2014 - Sep 2022
                   </span>
                   <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
-                    Frontend Developer
+                    Analista de Sistemas
                   </span>
                   <div className="pt-2">
                     <span className="block font-body text-black">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Vestibulum mattis felis vitae risus pulvinar tincidunt.
-                      Nam ac venenatis enim.
-                    </span>
+                      Responsable del area de tecnología de la institución, desarrollo y administración del sitio web.
+                      </span>
                   </div>
                 </div>
               </div>
