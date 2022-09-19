@@ -5,17 +5,15 @@ export default function Contacto() {
     <div>
       <div className="container py-16 md:py-20" id="contact">
         <h2 className="text-center font-header text-4xl font-semibold uppercase text-primary sm:text-5xl lg:text-6xl">
-          Here's a contact form
+          Aquí estan mis datos de contacto
         </h2>
         <h4 className="pt-6 text-center font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-          Have Any Questions?
+          ¿Te puedo ayudar en algo?
         </h4>
         <div className="mx-auto w-full pt-5 text-center sm:w-2/3 lg:pt-6">
           <p className="font-body text-grey-10">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit hendrerit
-            condimentum turpis nisl sem, viverra habitasse urna ante lobortis
-            fermentum accumsan. Viverra habitasse urna ante lobortis fermentum
-            accumsan.
+            Si deseas me puedes contatar para que hablemos ese proyecto de base tecnologíca que tienes en mente, para mí sería
+            un placer ayudarte a que sea una realidad. 
           </p>
         </div>
 
