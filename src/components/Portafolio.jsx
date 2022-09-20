@@ -1,5 +1,6 @@
 import React from "react";
 import uno from "./../assets/img/portafolio-landig-react.png";
+import dos from "./../assets/img/To-do.png";
 
 export default function Portafolio() {
   return (
@@ -27,9 +28,9 @@ export default function Portafolio() {
           className="mx-auto transform transition-all hover:scale-105 md:mx-0"
         >
           <img
-            src="/assets/img/portfolio-stripe.jpeg"
+            src={dos}
             className="w-full shadow"
-            alt="portfolio image"
+            alt="To-do"
           />
         </a>
         <a
