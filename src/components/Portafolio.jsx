@@ -24,7 +24,7 @@ export default function Portafolio() {
           />
         </a>
         <a
-          href="/"
+          href="https://todo-list-milton-arias-edg9rjky1-miltonjac.vercel.app/"
           className="mx-auto transform transition-all hover:scale-105 md:mx-0"
         >
           <img
@@ -33,26 +33,7 @@ export default function Portafolio() {
             alt="To-do"
           />
         </a>
-        <a
-          href="/"
-          className="mx-auto transform transition-all hover:scale-105 md:mx-0"
-        >
-          <img
-            src="/assets/img/portfolio-fedex.jpeg"
-            className="w-full shadow"
-            alt="portfolio image"
-          />
-        </a>
-        <a
-          href="/"
-          className="mx-auto transform transition-all hover:scale-105 md:mx-0"
-        >
-          <img
-            src="/assets/img/portfolio-microsoft.jpeg"
-            className="w-full shadow"
-            alt="portfolio image"
-          />
-        </a>
+      
       </div>
     </div>
   );
